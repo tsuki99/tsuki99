@@ -13,7 +13,7 @@ Currently looking for a Junior Java Backend Developer position where I can grow 
 
 ## 🚀 Projects
 
-### 🌍 Country Information Service
+### [🌍 Country Information Service](https://github.com/tsuki99/country-information-service)
 Spring Boot REST API using external REST Countries API  
 - DTO mapping (MapStruct)
 - External API integration
