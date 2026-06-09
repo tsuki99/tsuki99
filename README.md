@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vlad
 
-Backend developer focused on Java and Spring Boot
+Currently looking for a Junior Java Backend Developer position where I can grow in backend development, Spring ecosystem, and real-world system design.
 
 ---
 
