@@ -13,6 +13,18 @@ Currently looking for a Junior Java Backend Developer position where I can grow 
 
 ## 🚀 Projects
 
+### [🎬 Movie Catalog Service](https://github.com/tsuki99/movie-catalog-service)
+Spring Boot REST API for managing movies and related entities  
+- CRUD operations for movies, actors, producers, studios  
+- JPA Specifications-based dynamic search  
+- Pagination and sorting support  
+- Soft delete (logical deletion)  
+- Relational mappings (One-to-Many, Many-to-Many)  
+- Liquibase database versioning  
+- Swagger/OpenAPI documentation  
+
+---
+
 ### [🌍 Country Information Service](https://github.com/tsuki99/country-information-service)
 Spring Boot REST API using external REST Countries API  
 - DTO mapping (MapStruct)
